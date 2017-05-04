@@ -1,0 +1,15 @@
+Linear Regression:
+	Training RMSE = 0.797519498089
+	Testing RMSE = 0.835386861685
+
+Ridge Regression:
+	Training RMSE = 0.803719050184
+	Testing RMSE = 0.84216331431
+
+Linear Regression with Gradient Descent:
+	Training RMSE = 0.807214
+	Testing RMSE = 0.817741
+
+Ridge Regression with Gradient Descent:
+	Training RMSE = 0.810832
+	Testing RMSE = 0.823987
