@@ -42,7 +42,7 @@ def gradient(X, y, w, lamb):
     return np.dot(X.T, np.dot(X, w)-y)+lamb*w
 
 def doGradientDescent(X, y, lamb): 
-    w = np.zeros((len(X[0]), 1), dtype=np.float32)
+    w = np.random.randn(len(X[0]), 1)
     converged = False
     while not converged:
         wnext = w-learningRate*gradient(X, y, w, lamb)

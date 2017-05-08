@@ -7,9 +7,9 @@ Ridge Regression:
 	Testing RMSE = 0.84216331431
 
 Linear Regression with Gradient Descent:
-	Training RMSE = 0.807214
-	Testing RMSE = 0.817741
+	Training RMSE = 0.819324569049
+	Testing RMSE = 0.849747523083
 
 Ridge Regression with Gradient Descent:
-	Training RMSE = 0.810832
-	Testing RMSE = 0.823987
+	Training RMSE = 0.818521108773
+	Testing RMSE = 0.864392768628
